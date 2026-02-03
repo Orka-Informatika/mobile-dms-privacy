@@ -1,10 +1,6 @@
----
-title: Pravilnik o zasebnosti – Orka Doc
----
+# Pravilnik o zasebnosti aplikacije Orka Doc
 
-# Pravilnik o zasebnosti
-
-**Velja od: [vstavite datum]**
+**Velja od: 1.2.2026**
 
 Orka Doc je aplikacija, namenjena zaposlenim v podjetjih naših strank. Ta pravilnik o zasebnosti pojasnjuje, kako aplikacija ravna z osebnimi podatki.
 
@@ -51,8 +47,8 @@ Ta pravilnik lahko občasno posodabljamo. O vsaki spremembi vas bomo obvestili p
 
 ## Stiki
 
-Za dodatna vprašanja o zasebnosti pišite na: [vstavite e-poštni naslov].
+Za dodatna vprašanja o zasebnosti pišite na: razvoj@orka.it.
 
 ---
-Orka Doc
-[leto]
+Orka Informatika
+2026
