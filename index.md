@@ -13,8 +13,7 @@ Vaše podatke upravlja vaše podjetje (vaš delodajalec), ki je tudi odgovorno z
 Aplikacija Orka Doc ne zbira osebnih podatkov za registracijo. Vsi uporabniški računi so ustvarjeni in upravljani s strani vašega podjetja.
 
 Aplikacija lahko zbira naslednje podatke za delovanje in izboljšavo storitev:
-- **Tehnični podatki**: informacije o napravi, operacijskem sistemu, različici aplikacije in internetnem protokolu (IP).
-- **Podatki o uporabi**: informacije o tem, kako uporabljate aplikacijo (npr. čas prijava, uporabljene funkcije).
+- **Tehnični podatki**: informacije o napravi, operacijskem sistemu, različici aplikacije.
 
 ## Zakaj se podatki zbirajo?
 
