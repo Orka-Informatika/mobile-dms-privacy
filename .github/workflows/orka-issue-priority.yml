@@ -9,4 +9,4 @@ permissions:
 
 jobs:
   priority:
-    uses: Orka-Informatika/.github/.github/workflows/issue-priority.yml@500ae14dd0fd76f84157d6d54fdf0bb5dcb1599d
+    uses: Orka-Informatika/.github/.github/workflows/issue-priority.yml@stable
